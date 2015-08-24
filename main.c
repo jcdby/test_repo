@@ -6,4 +6,5 @@ void main(){
 	pringln("i am lijincheng");
 	println("i am different!");
 	println("i am different!!!");
+	i thought i am new!
 }
