@@ -4,6 +4,6 @@ void main(){
 	println("hello wold!");
 	println("haha, world!!);
 	pringln("i am lijincheng");
-	do something diffent!!!
-	do something same!!!!
+	println("i am different!");
+	println("i am different!!!");
 }
