@@ -2,4 +2,6 @@
 void main(){
 
 	println("hello wold!");
-e}
+	println("haha, world!!);
+
+}
